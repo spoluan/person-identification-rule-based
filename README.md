@@ -1,6 +1,6 @@
 ## Description
 
-[![Using insoles and rbg camera for personal identification](https://img.youtube.com/vi/gZpaYtM9QDQ/0.jpg)](https://www.youtube.com/watch?v=gZpaYtM9QDQ "Everything Is AWESOME")
+[![Using insoles and rbg camera for personal identification](https://img.youtube.com/vi/gZpaYtM9QDQ/0.jpg)](https://www.youtube.com/watch?v=gZpaYtM9QDQ "Using insoles and rbg camera for personal identification")
 
 This project uses smart insoles and RGB cameras to identify stationary human targets.
 For a more complete understanding of the technical details of this code, please refer to this paper. The code presented here is only a small part of the overall implementation.
